@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "net.deamjava.proximity_text_chat.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PlayerListMixin",
+    "ServerPlayerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+	}
+}
