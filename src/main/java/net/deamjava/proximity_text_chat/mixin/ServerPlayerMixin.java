@@ -4,7 +4,6 @@ import net.deamjava.proximity_text_chat.ProximityTextChatConfig;
 import net.minecraft.network.chat.Component;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.server.players.PlayerList;
-import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.scores.Team;
 import net.minecraft.world.scores.Team.Visibility;
 import org.spongepowered.asm.mixin.Mixin;
